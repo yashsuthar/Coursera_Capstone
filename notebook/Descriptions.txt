@@ -1,0 +1,11 @@
+toronto.png:
+this png file visualize or explore neighborhoods in city of toronto
+
+cluster.png:
+this file visualize clusters of neighborhoods in city of toronto
+
+data.csv:
+this file shows neighborhoods or borough or postal code in city of toronto
+
+geo_data.csv:
+this is updated file of data.csv in this file also include geographical coordinates(latitude, longitude)
