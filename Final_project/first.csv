@@ -1,0 +1,125 @@
+,Borough,Neighborhood,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+1,North West Delhi,Ashok Vihar,0.0,Indian Restaurant,Athletics & Sports,Bakery,Smoke Shop,Diner,Hotel Bar,Donut Shop,Frozen Yogurt Shop,Fried Chicken Joint,French Restaurant
+2,North West Delhi,Azadpur,0.0,Pool Hall,Bus Station,Restaurant,Women's Store,Food Truck,Food Court,Food & Drink Shop,Food,Flower Shop,Flea Market
+5,North West Delhi,Dhaka,0.0,Furniture / Home Store,Diner,Train Station,Pizza Place,Fast Food Restaurant,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+6,North West Delhi,Jahangirpuri,0.0,Light Rail Station,Women's Store,Flower Shop,Frozen Yogurt Shop,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+8,North West Delhi,Keshav Puram,0.0,Indian Restaurant,Bakery,Gastropub,Food Truck,Café,Basketball Court,Department Store,Art Gallery,Garden Center,Furniture / Home Store
+9,North West Delhi,Kingsway Camp,0.0,Music Venue,Art Gallery,Government Building,Women's Store,Flea Market,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop
+10,North West Delhi,Kohat Enclave,0.0,Indian Restaurant,Snack Place,Food,ATM,Train Station,IT Services,French Restaurant,Food Truck,Food Court,Food & Drink Shop
+11,North West Delhi,Model Town,0.0,Pizza Place,Donut Shop,Convenience Store,Snack Place,Men's Store,Food Truck,Fast Food Restaurant,Frozen Yogurt Shop,Lake,Light Rail Station
+13,North West Delhi,Pitam Pura,0.0,Women's Store,Park,Metro Station,Market,Flower Shop,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop
+14,North West Delhi,Rani Bagh,0.0,Department Store,Chinese Restaurant,Multiplex,Donut Shop,Eastern European Restaurant,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop
+15,North West Delhi,Rithala,0.0,Hotel,Clothing Store,Restaurant,Light Rail Station,Women's Store,Flea Market,French Restaurant,Food Truck,Food Court,Food & Drink Shop
+17,North West Delhi,Shalimar Bagh,0.0,Shoe Store,Women's Store,Flea Market,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food,Flower Shop
+18,North Delhi,Shakti Nagar,0.0,Fried Chicken Joint,Concert Hall,Playground,Café,Flea Market,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+19,North Delhi,Bara Hindu Rao,0.0,Afghan Restaurant,ATM,Music Store,Flea Market,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+20,North Delhi,Chandni Chowk,0.0,Indian Restaurant,Market,Snack Place,Hotel,Fast Food Restaurant,Dessert Shop,Historic Site,Museum,Flea Market,Food Truck
+21,North Delhi,Chawri Bazaar,0.0,Dessert Shop,Indian Restaurant,Snack Place,Hardware Store,Paper / Office Supplies Store,Antique Shop,Flea Market,Fried Chicken Joint,French Restaurant,Food Truck
+22,North Delhi,Civil Lines,0.0,Indian Restaurant,Asian Restaurant,Burger Joint,Light Rail Station,Chinese Restaurant,Coffee Shop,Hotel,Italian Restaurant,Fabric Shop,Eastern European Restaurant
+23,North Delhi,Dariba Kalan,0.0,Indian Restaurant,Market,Snack Place,Fast Food Restaurant,Paper / Office Supplies Store,Historic Site,Dessert Shop,Mosque,Museum,Hotel
+25,North Delhi,Gulabi Bagh,0.0,Park,Hotel,Garden,Spa,Women's Store,Fast Food Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+26,North Delhi,Kamla Nagar,0.0,Breakfast Spot,Indian Restaurant,Coffee Shop,Fried Chicken Joint,Donut Shop,Pizza Place,Chinese Restaurant,Flea Market,Café,Miscellaneous Shop
+30,North Delhi,Nehru Vihar,0.0,Bakery,Gym,Women's Store,Flower Shop,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+31,North Delhi,Pratap Nagar,0.0,Train Station,Mobile Phone Shop,Light Rail Station,Women's Store,Flower Shop,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop
+33,North Delhi,Roshanara Bagh,0.0,ATM,Park,Indie Movie Theater,Flea Market,Fast Food Restaurant,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+35,North Delhi,Sant Nagar,0.0,Gym / Fitness Center,Boutique,Donut Shop,Bakery,Flower Shop,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop
+36,North Delhi,Sarai Kale Khan,0.0,Food Court,Platform,Bus Station,Moving Target,Women's Store,Flea Market,French Restaurant,Food Truck,Food & Drink Shop,Food
+37,North Delhi,Sarai Rohilla,0.0,Train Station,Women's Store,Fast Food Restaurant,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food,Flower Shop
+38,North Delhi,Shastri Nagar,0.0,Shopping Mall,Flea Market,Light Rail Station,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food,Flower Shop
+40,North Delhi,Timarpur,0.0,Gym,Accessories Store,Park,Cosmetics Shop,Women's Store,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+42,North East Delhi,Babarpur,0.0,Park,Women's Store,Fast Food Restaurant,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food,Flower Shop
+43,North East Delhi,Dilshad Garden,0.0,Indian Restaurant,Diner,Pizza Place,Light Rail Station,Flea Market,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+44,North East Delhi,Kabir Nagar,0.0,Park,Motorcycle Shop,Women's Store,Fast Food Restaurant,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food,Flower Shop
+46,North East Delhi,Maujpur,0.0,Park,Women's Store,Fast Food Restaurant,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food,Flower Shop
+50,North East Delhi,Shahdara,0.0,Vegetarian / Vegan Restaurant,Dhaba,Gift Shop,Platform,Light Rail Station,Women's Store,Flea Market,French Restaurant,Food Truck,Food Court
+52,North East Delhi,Shastri Park,0.0,Metro Station,Women's Store,Flower Shop,Frozen Yogurt Shop,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+54,Central Delhi,Daryaganj,0.0,Indian Restaurant,Restaurant,Hotel,Road,Fast Food Restaurant,Food Truck,Food Court,Food & Drink Shop,Food,Flower Shop
+55,Central Delhi,Jhandewalan,0.0,Hotel,Motorcycle Shop,High School,Light Rail Station,Women's Store,Flea Market,French Restaurant,Food Truck,Food Court,Food & Drink Shop
+56,Central Delhi,Karol Bagh,0.0,Snack Place,Hotel,Camera Store,Dessert Shop,Donut Shop,Eastern European Restaurant,Frozen Yogurt Shop,Fried Chicken Joint,French Restaurant,Food Truck
+57,Central Delhi,Paharganj,0.0,Hotel,Indian Restaurant,Fast Food Restaurant,Café,Bakery,Breakfast Spot,Snack Place,Bar,Korean Restaurant,Road
+59,New Delhi,Barakhamba Road,0.0,Indian Restaurant,Bakery,Café,Art Gallery,Theater,Hotel,Historic Site,Nightclub,Pool,Spa
+60,New Delhi,Chanakyapuri,0.0,Performing Arts Venue,Trail,Women's Store,Fast Food Restaurant,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food,Flower Shop
+61,New Delhi,Connaught Place,0.0,Indian Restaurant,Café,Chinese Restaurant,Bar,Coffee Shop,Lounge,Hotel,BBQ Joint,Clothing Store,Fast Food Restaurant
+62,New Delhi,Gautampuri,0.0,New Auto Dealership,Women's Store,Flea Market,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food,Flower Shop
+63,New Delhi,Gole Market,0.0,Indian Restaurant,Japanese Restaurant,Fabric Shop,Fast Food Restaurant,Bengali Restaurant,Bakery,Snack Place,Hotel,Historic Site,French Restaurant
+64,New Delhi,Golf Links,0.0,Golf Course,Women's Store,Flea Market,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food,Flower Shop
+65,New Delhi,INA Colony,0.0,Indian Restaurant,Train Station,Antique Shop,Light Rail Station,Flea Market,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop
+66,New Delhi,Khan Market,0.0,Café,Chinese Restaurant,Coffee Shop,Bar,Indian Restaurant,Asian Restaurant,Bookstore,Mediterranean Restaurant,Furniture / Home Store,Sandwich Place
+67,New Delhi,Laxmibai Nagar,0.0,Indian Restaurant,Train Station,Market,Restaurant,Flea Market,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+68,New Delhi,Pragati Maidan,0.0,Train Station,Coffee Shop,Art Museum,Museum,Flea Market,Women's Store,Fast Food Restaurant,French Restaurant,Food Truck,Food Court
+70,East Delhi,East Vinod Nagar,0.0,ATM,Sporting Goods Shop,Moving Target,Flea Market,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food,Flower Shop
+71,East Delhi,Gandhi Nagar,0.0,Burger Joint,Clothing Store,Women's Store,Flea Market,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+72,East Delhi,Geeta Colony,0.0,Dessert Shop,Pizza Place,Fast Food Restaurant,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food,Flower Shop
+73,East Delhi,Jhilmil Colony,0.0,Indian Restaurant,Hotel,Asian Restaurant,Juice Bar,Flea Market,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop
+74,East Delhi,Krishna Nagar,0.0,Hotel,Park,French Restaurant,Coffee Shop,Women's Store,Fast Food Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+75,East Delhi,Laxmi Nagar,0.0,Gym,Accessories Store,Shopping Mall,Train Station,Snack Place,Mobile Phone Shop,Light Rail Station,Flower Shop,French Restaurant,Food Truck
+76,East Delhi,Mayur Vihar,0.0,Office,Market,Flea Market,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food,Flower Shop
+77,East Delhi,Pandav Nagar,0.0,Dessert Shop,Metro Station,Park,Convenience Store,Food & Drink Shop,Bus Station,Restaurant,Moving Target,Flea Market,Food Truck
+78,East Delhi,Patparganj,0.0,Indian Restaurant,Coffee Shop,Market,Food Truck,Department Store,Antique Shop,Food,Furniture / Home Store,Frozen Yogurt Shop,Fried Chicken Joint
+80,East Delhi,Anand Vihar,0.0,Mobile Phone Shop,Electronics Store,Farm,Women's Store,Flower Shop,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop
+81,East Delhi,Shakarpur,0.0,Shopping Mall,Diner,Train Station,Snack Place,Coffee Shop,Gym,Light Rail Station,Flea Market,French Restaurant,Food Truck
+83,East Delhi,Vasundhara Enclave,0.0,Convenience Store,Market,Pizza Place,Stadium,Women's Store,Flea Market,French Restaurant,Food Truck,Food Court,Food & Drink Shop
+84,East Delhi,Vishwas Nagar,0.0,Mobile Phone Shop,Cosmetics Shop,Women's Store,Flea Market,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+85,East Delhi,Vivek Vihar,0.0,Juice Bar,Women's Store,Flea Market,Frozen Yogurt Shop,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+86,South Delhi,Alaknanda,0.0,Indian Restaurant,BBQ Joint,Pizza Place,Food & Drink Shop,Restaurant,Steakhouse,Middle Eastern Restaurant,Coffee Shop,Fabric Shop,Farm
+87,South Delhi,Chhattarpur,0.0,Flower Shop,Women's Store,Furniture / Home Store,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food,Flea Market
+88,South Delhi,Chittaranjan Park,0.0,Market,Pizza Place,Women's Store,Fast Food Restaurant,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food,Flower Shop
+89,South Delhi,Dayanand Colony,0.0,Restaurant,Fast Food Restaurant,Indie Movie Theater,Market,Coffee Shop,Clothing Store,Café,Flower Shop,French Restaurant,Food Truck
+90,South Delhi,Defence Colony,0.0,Indian Restaurant,Italian Restaurant,Bakery,Coffee Shop,Ice Cream Shop,Market,Food Truck,Department Store,Café,Burger Joint
+91,South Delhi,East of Kailash,0.0,Indian Restaurant,Coffee Shop,Restaurant,Bar,Light Rail Station,Fast Food Restaurant,Gym,Indie Movie Theater,Hot Dog Joint,Eastern European Restaurant
+92,South Delhi,Govindpuri,0.0,Burger Joint,Restaurant,Clothing Store,Farmers Market,Women's Store,Flower Shop,French Restaurant,Food Truck,Food Court,Food & Drink Shop
+93,South Delhi,Greater Kailash,0.0,Fast Food Restaurant,Indie Movie Theater,Hot Dog Joint,Market,Coffee Shop,Restaurant,Café,Flower Shop,French Restaurant,Food Truck
+94,South Delhi,Green Park,0.0,Indian Restaurant,Coffee Shop,Pizza Place,Donut Shop,Bar,Lounge,Burger Joint,Asian Restaurant,Japanese Restaurant,Other Nightlife
+95,South Delhi,Gulmohar Park,0.0,Park,Music Venue,Theater,Café,Women's Store,Flea Market,French Restaurant,Food Truck,Food Court,Food & Drink Shop
+96,South Delhi,Hauz Khas Village,0.0,Indian Restaurant,Café,Restaurant,Bar,Asian Restaurant,Italian Restaurant,Lounge,Coffee Shop,Bakery,Historic Site
+101,South Delhi,Jor Bagh,0.0,Hotel,Department Store,Historic Site,Metro Station,Bookstore,Chinese Restaurant,Fabric Shop,Farm,Electronics Store,Farmers Market
+102,South Delhi,Kailash Colony,0.0,Bar,Indian Restaurant,Italian Restaurant,Bakery,Flea Market,Food,Frozen Yogurt Shop,Fried Chicken Joint,French Restaurant,Food Truck
+103,South Delhi,Kalkaji,0.0,Dessert Shop,Pizza Place,Food Truck,Sandwich Place,Farmers Market,Clothing Store,Gym,Electronics Store,Eastern European Restaurant,Fabric Shop
+104,South Delhi,Khanpur,0.0,Indian Restaurant,Plaza,Chinese Restaurant,Flea Market,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+105,South Delhi,Khirki Village,0.0,Indian Restaurant,Bar,Lounge,Clothing Store,Chinese Restaurant,Café,Shopping Mall,Donut Shop,Restaurant,Hotel
+107,South Delhi,Lajpat Nagar,0.0,Sandwich Place,Indian Restaurant,Chinese Restaurant,Snack Place,Market,Food,Fast Food Restaurant,BBQ Joint,Indie Movie Theater,Farm
+108,South Delhi,Lodi Colony,0.0,Chinese Restaurant,Diner,Park,Performing Arts Venue,History Museum,Food Court,Middle Eastern Restaurant,Flea Market,French Restaurant,Food Truck
+109,South Delhi,Maharani Bagh,0.0,Hotel,Gym,Sculpture Garden,Café,Women's Store,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+110,South Delhi,Malviya Nagar,0.0,Coffee Shop,Indian Restaurant,Pizza Place,Sandwich Place,Café,Gym,Asian Restaurant,Miscellaneous Shop,Donut Shop,Farm
+111,South Delhi,Mehrauli,0.0,Thai Restaurant,Market,Restaurant,Women's Store,Flea Market,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+112,South Delhi,Neeti Bagh,0.0,Café,Dessert Shop,Metro Station,Park,Music Venue,Flea Market,French Restaurant,Food Truck,Food Court,Food & Drink Shop
+113,South Delhi,Nehru Place,0.0,Coffee Shop,Indian Restaurant,Electronics Store,Hotel,Fast Food Restaurant,Food,Food Court,Lounge,Donut Shop,Frozen Yogurt Shop
+114,South Delhi,Netaji Nagar,0.0,Indian Restaurant,Cosmetics Shop,Hotel,Market,Café,Flower Shop,Fried Chicken Joint,French Restaurant,Food Truck,Food Court
+115,South Delhi,New Friends Colony,0.0,Dessert Shop,Café,Flower Shop,Frozen Yogurt Shop,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+116,South Delhi,Nizamuddin West,0.0,Indian Restaurant,BBQ Joint,Mughlai Restaurant,Gym / Fitness Center,Eastern European Restaurant,Electronics Store,Fried Chicken Joint,French Restaurant,Food Truck,Food Court
+117,South Delhi,Okhla,0.0,Indian Restaurant,Metro Station,Coffee Shop,Chinese Restaurant,Flower Shop,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop
+121,South Delhi,Saket,0.0,Indian Restaurant,Restaurant,Hotel,American Restaurant,Toy / Game Store,Asian Restaurant,Café,Chinese Restaurant,Flower Shop,French Restaurant
+123,South Delhi,Sarita Vihar,0.0,Juice Bar,Park,Train Station,Market,Fast Food Restaurant,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+124,South Delhi,Sarvodaya Enclave,0.0,Indian Restaurant,Café,Pub,Flower Shop,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+125,South Delhi,Shahpur Jat,0.0,Bar,Indian Restaurant,Chinese Restaurant,Stadium,Australian Restaurant,Furniture / Home Store,Farm,Frozen Yogurt Shop,Fried Chicken Joint,French Restaurant
+126,South Delhi,Siri Fort,0.0,Park,Café,Stadium,Women's Store,Flea Market,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+127,South Delhi,South Extension,0.0,Coffee Shop,Indian Restaurant,Pizza Place,Market,Sporting Goods Shop,Fast Food Restaurant,Clothing Store,Chinese Restaurant,Department Store,Farm
+130,South Delhi,Tughlaqabad,0.0,Castle,Women's Store,Flea Market,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food,Flower Shop
+131,South Delhi,Badarpur,0.0,ATM,IT Services,Train Station,Art Gallery,Flea Market,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop
+132,South West Delhi,"Dabri, New Delhi",0.0,Movie Theater,Department Store,Grocery Store,Flower Shop,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+134,South West Delhi,Delhi Cantonment,0.0,Indian Restaurant,Coffee Shop,Café,Shopping Mall,Eastern European Restaurant,Diner,Fried Chicken Joint,French Restaurant,Food Truck,Food Court
+135,South West Delhi,Dhaula Kuan,0.0,Campground,Golf Course,Light Rail Station,Bakery,Furniture / Home Store,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop
+136,South West Delhi,Ghitorni,0.0,Indian Restaurant,Lake,Hotel,Sandwich Place,Pizza Place,Light Rail Station,Sporting Goods Shop,Food Truck,Food Court,Food & Drink Shop
+137,South West Delhi,Inderpuri,0.0,Gym,Convenience Store,Juice Bar,Stables,Women's Store,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+139,South West Delhi,Kishangarh Village,0.0,Indian Restaurant,Nightclub,Arcade,Flea Market,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+140,South West Delhi,Mahipalpur,0.0,Indian Restaurant,Hotel,Bed & Breakfast,Road,Shoe Store,Accessories Store,Donut Shop,Eastern European Restaurant,Fried Chicken Joint,French Restaurant
+141,South West Delhi,Moti Bagh,0.0,ATM,Flea Market,Beer Bar,Light Rail Station,Shopping Mall,Electronics Store,Donut Shop,Frozen Yogurt Shop,Diner,Fried Chicken Joint
+142,South West Delhi,Munirka,0.0,Indian Restaurant,Grocery Store,Department Store,Furniture / Home Store,Flea Market,Spa,Bank,Bakery,Sandwich Place,Steakhouse
+144,South West Delhi,Naraina,0.0,Ice Cream Shop,Snack Place,IT Services,Hotel Bar,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+145,South West Delhi,Palam,0.0,Indian Restaurant,Bar,Flower Shop,Frozen Yogurt Shop,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+146,South West Delhi,Rama Krishna Puram,0.0,Multiplex,Café,Coffee Shop,Shopping Mall,Thai Restaurant,Restaurant,South Indian Restaurant,Asian Restaurant,Pizza Place,Comfort Food Restaurant
+148,South West Delhi,Rangpuri,0.0,Indian Restaurant,Hotel,American Restaurant,Spa,Thai Restaurant,Fast Food Restaurant,French Restaurant,Food Truck,Food Court,Food & Drink Shop
+151,South West Delhi,Vasant Kunj,0.0,Vegetarian / Vegan Restaurant,Pizza Place,Bakery,Café,Women's Store,Flea Market,French Restaurant,Food Truck,Food Court,Food & Drink Shop
+152,South West Delhi,Vasant Vihar,0.0,Fast Food Restaurant,Coffee Shop,Café,Chinese Restaurant,Tea Room,Restaurant,Pub,Market,Pizza Place,Gourmet Shop
+154,West Delhi,Bali Nagar,0.0,Light Rail Station,Indian Restaurant,Shoe Store,Metro Station,Dessert Shop,Pizza Place,Ice Cream Shop,Art Gallery,Food,Furniture / Home Store
+155,West Delhi,Fateh Nagar,0.0,Indian Restaurant,Fried Chicken Joint,Pizza Place,Food Court,Ice Cream Shop,Indian Sweet Shop,Hot Dog Joint,Farmers Market,Hotel Bar,Food & Drink Shop
+156,West Delhi,Janakpuri,0.0,Gym / Fitness Center,Park,Café,Bakery,Flea Market,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+158,West Delhi,Meera Bagh,0.0,ATM,Convenience Store,Spa,Bakery,Café,Furniture / Home Store,Food,Fried Chicken Joint,French Restaurant,Food Truck
+159,West Delhi,Moti Nagar,0.0,Department Store,Clothing Store,Fried Chicken Joint,Sports Bar,Café,Shopping Mall,Asian Restaurant,Fast Food Restaurant,Donut Shop,Farm
+160,West Delhi,Nehru Nagar,0.0,Pizza Place,Indian Restaurant,Hotel,Donut Shop,Coffee Shop,Bus Station,Gym / Fitness Center,Restaurant,Plaza,Flea Market
+162,West Delhi,Paschim Vihar,0.0,ATM,Coffee Shop,Jewelry Store,Garden,BBQ Joint,Flower Shop,Frozen Yogurt Shop,Fried Chicken Joint,French Restaurant,Food Truck
+163,West Delhi,Patel Nagar,0.0,Café,Women's Store,Furniture / Home Store,Fried Chicken Joint,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food,Flower Shop
+165,West Delhi,Rajouri Garden,0.0,Indian Restaurant,Café,Diner,Park,Snack Place,Electronics Store,Market,Fast Food Restaurant,Gym,Bakery
+167,West Delhi,Tihar Village,0.0,Indian Restaurant,Sculpture Garden,Sandwich Place,Bakery,Frozen Yogurt Shop,French Restaurant,Food Truck,Food Court,Food & Drink Shop,Food
+169,West Delhi,Uttam Nagar,0.0,ATM,Pizza Place,Spa,Accessories Store,Bakery,Indian Restaurant,Train Station,Toy / Game Store,Farmers Market,Food Truck
+171,West Delhi,Vikaspuri,0.0,Indian Restaurant,Pizza Place,Flea Market,Multiplex,Donut Shop,Dhaba,French Restaurant,Food Truck,Food Court,Food & Drink Shop
